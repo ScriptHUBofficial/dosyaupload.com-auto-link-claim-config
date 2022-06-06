@@ -99,5 +99,4 @@
 
 #Cap_Fix FUNCTION Replace "Dosya Boyutu: " "" "<Dosya Boyutu>" -> CAP "Dosya Boyutu" 
 
-#Config_Maker FUNCTION Constant "🔥 Royalist Baba 🔥" -> CAP "Config Made By" 
 
